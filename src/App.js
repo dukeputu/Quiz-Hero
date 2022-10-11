@@ -7,7 +7,7 @@ function App() {
     <p className="text-3xl text-gray-700 font-bold mb-5">
       Welcome!
     </p>
-    <h1 className='text-5xl'>hello</h1>
+    <h1 className='text-5xl'>hello my name duke</h1>
     <p className="text-gray-500 text-lg">
       React and Tailwind CSS in action
     </p>
